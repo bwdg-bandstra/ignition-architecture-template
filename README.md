@@ -51,7 +51,7 @@ ___
 	mkdir ignition-data
 	```
 
-9. Pull any changes to the docker image and start the container.
+9. Pull any changes to the docker image and start the container. Note: if there is a timeout error, try disconnecting from a VPN.
       
     On Mac:
     
